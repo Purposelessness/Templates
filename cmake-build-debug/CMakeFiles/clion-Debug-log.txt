@@ -1,0 +1,4 @@
+/Users/purposeless/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/purposeless/projects/qt/sample-project -B /Users/purposeless/projects/qt/sample-project/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/purposeless/projects/qt/sample-project/cmake-build-debug

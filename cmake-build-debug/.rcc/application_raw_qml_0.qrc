@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/project/">
+    <file alias="qml/main.qml">/Users/purposeless/projects/qt/sample-project/qml/main.qml</file>
+  </qresource>
+</RCC>
+

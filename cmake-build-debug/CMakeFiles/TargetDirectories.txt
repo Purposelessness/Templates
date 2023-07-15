@@ -1,0 +1,15 @@
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/application.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/application_qmltyperegistration.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/all_qmltyperegistrations.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/application_qmllint.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/application_qmllint_json.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/application_qmllint_module.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/all_qmllint.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/all_qmllint_json.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/all_qmllint_module.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/application_tooling.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/application_qmlimportscan.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/application_autogen_timestamp_deps.dir
+/Users/purposeless/projects/qt/sample-project/cmake-build-debug/CMakeFiles/application_autogen.dir

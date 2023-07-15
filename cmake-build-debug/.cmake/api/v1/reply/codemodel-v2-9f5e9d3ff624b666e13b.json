@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-e933a8ba3331ef62d258.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-bcf94326f68401137d55.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-34b0642c41411ed8861c.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-6546931851c974838fec.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "application::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-application-Debug-89b7c750502c64a56158.json",
+					"name" : "application",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "application_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-application_autogen-Debug-493dca068cc59731cbf6.json",
+					"name" : "application_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "application_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-application_autogen_timestamp_deps-Debug-0dcc312ace1d5a1f083e.json",
+					"name" : "application_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "application_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-application_qmlimportscan-Debug-7f5a9a3a5a151d516f72.json",
+					"name" : "application_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "application_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-application_qmllint-Debug-8bf783c69cbfb59113dc.json",
+					"name" : "application_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "application_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-application_qmllint_json-Debug-52f9671b054d374ef310.json",
+					"name" : "application_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "application_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-application_qmllint_module-Debug-dab7d449b58e222f1e97.json",
+					"name" : "application_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "application_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-application_qmltyperegistration-Debug-14500b0563b282060b04.json",
+					"name" : "application_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "application_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-application_tooling-Debug-95091aa43384a44a75d9.json",
+					"name" : "application_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/purposeless/projects/qt/sample-project/cmake-build-debug",
+		"source" : "/Users/purposeless/projects/qt/sample-project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
