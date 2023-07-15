@@ -1,4 +1,0 @@
-module project
-typeinfo application.qmltypes
-prefer :/project/
-

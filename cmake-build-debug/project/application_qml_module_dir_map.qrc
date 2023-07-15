@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/project">/Users/purposeless/projects/qt/sample-project/cmake-build-debug/project</file>
-
-  </qresource>
-</RCC>
